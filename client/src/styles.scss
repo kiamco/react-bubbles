@@ -109,3 +109,14 @@ form {
         }
     }
 }
+
+form.add {
+    margin-top: 20px;
+    background: rgb(36, 35, 35);
+    color: white;
+    padding: 20px 0 20px;
+    border-radius: 0.5rem;
+    button {
+        border: 1px solid white;
+    }
+}
